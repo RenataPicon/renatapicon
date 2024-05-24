@@ -2,8 +2,6 @@
 
 ### 💜 Olá, meu nome é Renata Picon!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=RenataPicon&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 ## 🚀 Minhas Skills
 
 
