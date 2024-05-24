@@ -1,7 +1,5 @@
-<h1 align="center">Olá! Eu sou Renata Riboli Picon</h1>
-<h3 align="center">Uma desenvolvedora frontend apaixonada do Brasil.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renatapicon" alt="renatapicon" /></a> </p>
+<h3 align="center">Me chamo Renata Riboli Picon</h3>
 
 - 📫 **renata_riboli@hotmail.com**
 
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatapicon&show_icons=true&locale=en&layout=compact" alt="renatapicon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true&locale=en" alt="renatapicon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatapicon&" alt="renatapicon" /></p>
