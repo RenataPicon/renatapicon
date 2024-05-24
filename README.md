@@ -11,6 +11,6 @@
 <a href="https://github.com/RenataPicon">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPicon&layout=compact&langs_count=7&theme=pink-tac-toe"/></div>
 
-![Snake animation](https://github.com/renatapicon/renatapicon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RenataPicon/RenataPicon/blob/output/github-contribution-grid-snake.svg)
 
 
