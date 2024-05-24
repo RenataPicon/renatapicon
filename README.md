@@ -1,6 +1,6 @@
 
 ### 💜 Olá, meu nome é Renata Picon!
-
+![gato](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNkM3ozbHE5b2p2eHlmbHJjcHQyNDF4N2d0N2cwZXYxNnpjcWp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhsNmFjuN4WDS/giphy.gif)
 ## 🚀 Minhas Skills
 
 
@@ -12,5 +12,6 @@
 ## ⭐ GitHub Stats
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
 
 
