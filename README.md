@@ -1,4 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### 💜 Olá, meu nome é Renata Picon!
 
@@ -10,12 +9,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-
-
-
-
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-![gif](<iframe src="https://giphy.com/embed/vhsNmFjuN4WDS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-version-chatting-vhsNmFjuN4WDS">via GIPHY</a></p>)
+
