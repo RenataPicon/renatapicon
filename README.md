@@ -13,8 +13,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 
+
+
+
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vhsNmFjuN4WDS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-version-chatting-vhsNmFjuN4WDS">via GIPHY</a></p>
+![gif](<iframe src="https://giphy.com/embed/vhsNmFjuN4WDS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-version-chatting-vhsNmFjuN4WDS">via GIPHY</a></p>)
