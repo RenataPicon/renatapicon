@@ -1,16 +1,21 @@
-## ✨ Olá! ✨
+<h1 align="center">Olá! Eu sou Renata Riboli Picon</h1>
+<h3 align="center">Uma desenvolvedora frontend apaixonada do Brasil.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renatapicon" alt="renatapicon" /></a> </p>
 
-- 🌱 Atualmente estou estudando Desenvolvimento: Front-End
-- 🎓 Mestre e Bacharel em Engenharia
-- 💘 Apaixonada por tecnologia, animais e crianças!
+- 📫 **renata_riboli@hotmail.com**
 
-![image](https://github.com/RenataPicon/renatapicon/assets/165615769/de80d273-cb4e-47ea-b678-f7e5cd591ff7)
+- ⚡ Fatos interessantes: **apaixonada por gatos, crianças e tecnologia!**
 
-<div>
-<a href="https://github.com/RenataPicon">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPicon&layout=compact&langs_count=7&theme=pink-tac-toe"/></div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![Snake animation](https://github.com/RenataPicon/RenataPicon/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatapicon&show_icons=true&locale=en&layout=compact" alt="renatapicon" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatapicon&show_icons=true&locale=en" alt="renatapicon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatapicon&" alt="renatapicon" /></p>
