@@ -1,10 +1,14 @@
 ### 💜 Olá, meu nome é Renata Picon!
 ![gato](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNkM3ozbHE5b2p2eHlmbHJjcHQyNDF4N2d0N2cwZXYxNnpjcWp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhsNmFjuN4WDS/giphy.gif)<br>
-# Sobre Mim
+# 🌸 Sobre Mim 🌸
 
-🚀 **Bacharel em Engenharia Florestal** pela Universidade Federal de Santa Maria  
-🌱 **Mestre em Agronomia** pela Universidade Federal de Santa Maria  
-💻 **Estudante de Desenvolvimento Front-End** pela Escola DNC
+🎓 **Bacharel em Engenharia Florestal** pela Universidade Federal de Santa Maria  
+🌿 **Mestre em Agronomia** pela Universidade Federal de Santa Maria  
+💻 **Estudante de Desenvolvimento Front-End** pela Escola DNC 🚀  
+
+✨ Apaixonada por tecnologia, natureza e sempre em busca de novos desafios!  
+🌷 Adoro aprender coisas novas e compartilhar conhecimento com os outros.
+
 
 
 ## 🚀 Minhas Skills
