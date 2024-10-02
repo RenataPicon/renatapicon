@@ -1,4 +1,4 @@
-
+![Badge](https://img.shields.io/badge/Perfil-Rosa-ff69b4)
 ### 💜 Olá, meu nome é Renata Picon!
 ![gato](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNkM3ozbHE5b2p2eHlmbHJjcHQyNDF4N2d0N2cwZXYxNnpjcWp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhsNmFjuN4WDS/giphy.gif)<br>
 Sou Bacharel em Engenharia Florestal pela Universidade Federal de Santa Maria;<br>
